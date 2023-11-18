@@ -15,9 +15,9 @@ const Posts = async (props: Props) => {
   )
 
   const bgClasses = [
-    'bg-pink-500',
-    'bg-blue-500',
-    'bg-yellow-500',
+    'bg-green-500',
+    'bg-orange-500',
+    'bg-blue-300',
   ]
 
   return (
